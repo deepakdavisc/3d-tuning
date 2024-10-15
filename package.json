@@ -2,7 +2,7 @@
   "name": "3d-cars",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://deepakdavisc.github.io/3d-tuning",
+  "homepage": "https://deepakdavisc.github.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",

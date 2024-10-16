@@ -15,7 +15,7 @@ const Hero = () => {
   const [headlight, setHeadlight] = useState(true);
   const [tire, setTire] = useState(true);
   return (
-    <div className="bg-homebg1">
+    <div className="homebg1">
       <div className="flex items-center justify-center ">
         <div className="position-relative w-[350px] h-[350px] cursor-pointer m-5">
           <div className="bg-no-repeat h-[250px] bg-center bg-position-right bg-blue bg-box1"></div>

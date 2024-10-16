@@ -209,3 +209,7 @@ canvas {
   transform: scale(1.2);
   min-height: auto;
 }
+
+.homebg1 {
+  background-image: url("./assets/web_menu_live.jpg");
+}

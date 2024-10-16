@@ -211,5 +211,29 @@ canvas {
 }
 
 .homebg1 {
-  background-image: url("./assets/web_menu_live.jpg");
+  background-image: url("/assets/web_menu_live.jpg");
+}
+.box {
+  background-image: url("/assets/web_menu_live.png");
+}
+.box2 {
+  background-image: url("/assets/web_menu_live.png");
+}
+.box3 {
+  background-image: url("/assets/web_menu_live.png");
+}
+.mirrors {
+  background-image: url("/assets/mirors.png");
+}
+.rotors {
+  background-image: url("/assets/brake_rotors.png");
+}
+.Headlight {
+  background-image: url("/assets/headlight.png");
+}
+.seats {
+  background-image: url("/assets/seats.png");
+}
+.tire {
+  background-image: url("/assets/tire.jpg");
 }

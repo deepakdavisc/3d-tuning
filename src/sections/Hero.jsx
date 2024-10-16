@@ -63,7 +63,7 @@ const Hero = () => {
 
       <div className="bg-white p-5 w-full h-[120px] fixed bottom-0 left-0 flex items-center justify-around">
         <div className="cursor-pointer" onClick={() => setMirrors(!mirrors)}>
-          <div className="bg-mirrors parts"></div>
+          <div className="mirrors parts"></div>
           <div className="font-bold text-xl text-black-200 text-center">
             Mirror
           </div>
@@ -72,7 +72,7 @@ const Hero = () => {
           className="cursor-pointer"
           onClick={() => setBrakeDisc(!brakedisc)}
         >
-          <div className="bg-rotors parts"></div>
+          <div className="rotors parts"></div>
           <div className="font-bold text-xl text-black-200 text-center">
             Break Rotors
           </div>
@@ -81,19 +81,19 @@ const Hero = () => {
           className="cursor-pointer"
           onClick={() => setHeadlight(!headlight)}
         >
-          <div className="bg-Headlight parts"></div>
+          <div className="Headlight parts"></div>
           <div className="font-bold text-xl text-black-200 text-center">
             Headlights
           </div>
         </div>
         <div className="cursor-pointer" onClick={() => setSeat(!seat)}>
-          <div className="bg-seats parts"></div>
+          <div className="seats parts"></div>
           <div className="font-bold text-xl text-black-200 text-center">
             Seat
           </div>
         </div>
         <div className="cursor-pointer" onClick={() => setTire(!tire)}>
-          <div className="bg-tire parts"></div>
+          <div className="tire parts"></div>
           <div className="font-bold text-xl text-black-200 text-center">
             Tire
           </div>

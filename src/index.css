@@ -213,14 +213,14 @@ canvas {
 .homebg1 {
   background-image: url("/assets/web_menu_live.jpg");
 }
-.box {
-  background-image: url("/assets/web_menu_live.png");
+.box1 {
+  background-image: url("/assets/box1.png");
 }
 .box2 {
-  background-image: url("/assets/web_menu_live.png");
+  background-image: url("/assets/box2.png");
 }
 .box3 {
-  background-image: url("/assets/web_menu_live.png");
+  background-image: url("/assets/box3.png");
 }
 .mirrors {
   background-image: url("/assets/mirors.png");

@@ -18,19 +18,19 @@ const Hero = () => {
     <div className="homebg1">
       <div className="flex items-center justify-center ">
         <div className="position-relative w-[350px] h-[350px] cursor-pointer m-5">
-          <div className="bg-no-repeat h-[250px] bg-center bg-position-right bg-blue bg-box1"></div>
+          <div className="bg-no-repeat h-[250px] bg-center bg-position-right bg-blue box1"></div>
           <div className="p-5 text-center bg-blue text-white font-semibold">
             CARS & BIKES
           </div>
         </div>
         <div className="position-relative w-[350px] h-[350px] cursor-pointer m-5">
-          <div className="bg-no-repeat h-[250px] bg-center bg-position-right bg-blue bg-box2"></div>
+          <div className="bg-no-repeat h-[250px] bg-center bg-position-right bg-blue box2"></div>
           <div className="p-5 text-center bg-orange text-white font-semibold">
             TRUCKS & JEEPS
           </div>
         </div>
         <div className="position-relative w-[350px] h-[350px] cursor-pointer m-5">
-          <div className="bg-no-repeat h-[250px] bg-center bg-position-right bg-blue bg-box3"></div>
+          <div className="bg-no-repeat h-[250px] bg-center bg-position-right bg-blue box3"></div>
           <div className="p-5 text-center bg-red text-white font-semibold">
             MUSCLE CARS
           </div>
